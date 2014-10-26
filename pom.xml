@@ -12,10 +12,6 @@
 	<description>obsidian</description>
 	<url>http://www.interzonesolutions.co.uk</url>
 
-	<modules>
-		<module>isl-master-webapp-config-instance</module>
-	</modules>
-
 	<organization>
 		<name>Interzone Solutions Ltd</name>
 		<url>http://www.interzonesolutions.co.uk/</url>
